@@ -1,10 +1,5 @@
 <!-- Profile README -->
 
-<!-- Auto ASCII Banner -->
-<p align="center">
-  <img src="https://readme-ascii.vercel.app/api?text=Mrs-Gh0st&font=block&color=00F79D&center=true" alt="ASCII Banner" />
-</p>
-
 <h1 align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F79D&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Mrs-Gh0st;Software+Developer+%7C+Ethical+Hacker;Security+Researcher+%7C+Bug+Bounty+Hunter;Builder+of+Cool+Things+🚀" alt="Typing SVG" />
 </h1>
@@ -79,33 +74,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https:/Mrs-Gh0st/stealth-loader">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mrs-Gh0st&repo=stealth-loader&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Mrs-Gh0st/bedtime-stories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mrs-Gh0st&repo=bedtime-stories&theme=tokyonight" />
-  </a>
-</p>
-
----
-
-### 🛡️ Security Badges
-
-<p>
-  <a href="https://tryhackme.com/p/YOUR_TRYHACKME_USERNAME">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_TRYHACKME_USERNAME.png" alt="TryHackMe Badge" />
-  </a>
-</p>
-
----
-
-### 🌍 Connect With Me
-<p>
-  <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="YOUR_WEBSITE"><img src="https://img.shields.io/badge/Portfolio-%23FF4088.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-</p>
 
 ---
 
